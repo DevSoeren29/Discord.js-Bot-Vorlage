@@ -1,0 +1,19 @@
+{
+  "name": "final_fun_bot_dsc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "start-bot": "node ."
+  },
+  "keywords": [],
+  "author": "Dev_Sören",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.10",
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2"
+  }
+}
